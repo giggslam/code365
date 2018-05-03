@@ -10,3 +10,6 @@ setup [gitub project](https://github.com/giggslam/code365) for starting code jou
 
 ## Day 3 (2018-05-02)
 Set [GitLab](https://www.gitlab.com) for private project
+
+## Day 4 (2018-05-03)
+[Jieba](https://github.com/giggslam/jieba)
