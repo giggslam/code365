@@ -22,3 +22,4 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 
 ## Day 7 (2018-05-06)
 [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
+[fuzzywuzzy](https://github.com/giggslam/fuzzywuzzy)
