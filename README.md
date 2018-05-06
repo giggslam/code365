@@ -19,3 +19,6 @@ Setup [GitBook](https://www.gitbook.com) for documentation
 
 ## Day 6 (2018-05-05)
 Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
+
+## Day 7 (2018-05-06)
+[Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
