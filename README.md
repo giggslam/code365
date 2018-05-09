@@ -33,6 +33,6 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 [fuzzywuzzy](https://github.com/giggslam/fuzzywuzzy)
 
-## Day 8, 9 (2018-05-07 to 2018-05-08)
+## Day 8, 9, 10 (2018-05-07 to 2018-05-09)
 
 [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
