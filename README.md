@@ -39,6 +39,6 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 
 ## Day 11 (2018-05-10)
 
-今日睇完100毛既[《星期三港案》我母語就係粵語！](https://github.com/giggslam/code365.git), 我決定黎緊會用廣東話寫, 以支持粵語~
+今日睇完100毛既[《星期三港案》我母語就係粵語！](https://www.facebook.com/100most/videos/1590339141093727), 我決定黎緊會用廣東話寫, 以支持粵語~
 
-### 我母語係粵語
+### #我母語係粵語
