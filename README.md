@@ -42,3 +42,7 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 今日睇完100毛既[《星期三港案》我母語就係粵語！](https://www.facebook.com/100most/videos/1590339141093727), 我決定黎緊會用廣東話寫, 以支持粵語~
 
 ### #我母語係粵語
+
+## Day 12 (2018-05-11)
+
+完成左 Smalltalk 嘅 Rev1, 放左上 Azure 試, 試過效果唔錯
