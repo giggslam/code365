@@ -54,3 +54,7 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 ## Day 14 (2018-05-13)
 
 研究下可以用 PowerShell 做到自動 upload files
+
+## Day 15 (2018-05-14)
+
+原來 [Google Voice Kit](https://aiyprojects.withgoogle.com/voice/) 已經出到 Version 2, 仲要已經包埋 Raspberry Pi zero, 研究下~
