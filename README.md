@@ -50,3 +50,7 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 ## Day 13 (2018-05-12)
 
 無意中發現左台灣網站嘅一篇文章 [書評 人工智慧相關書籍](https://episode.cc/read/cnchi/BookReview-AI), 對市面上人工智慧的書作出解讀, 由介紹、入門到進階, 好詳細講出每本書嘅優劣, 絕對推薦大家去睇下, 我睇完後都即刻上[博客來](https://www.books.com.tw)買左幾本, 以增強自己知識, 目標每月一本
+
+## Day 14 (2018-05-13)
+
+研究下可以用 PowerShell 做到自動 upload files
