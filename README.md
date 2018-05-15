@@ -57,8 +57,9 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 
 ## Day 15 (2018-05-14)
 
-原來用 PowerShell control I.E. 都唔係咁易, 有啲 limitation
+原來 [Google Voice Kit](https://aiyprojects.withgoogle.com/voice/) 已經出到 Version 2, 仲要已經包埋 Raspberry Pi zero, 研究下~
 
 ## Day 16 (2018-05-15)
 
 終於完成 [PowerShell-uploadfile](https://github.com/giggslam/PowerShell-uploadfile), 原來基於 I.E. security 問題, PowerShell 唔容許直接操控 file upload, 要用 3rd party [WatiN](https://sourceforge.net/projects/watin/) assembly 
+
