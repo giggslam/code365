@@ -54,3 +54,11 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 ## Day 14 (2018-05-13)
 
 研究下可以用 PowerShell 做到自動 upload files
+
+## Day 15 (2018-05-14)
+
+原來用 PowerShell control I.E. 都唔係咁易, 有啲 limitation
+
+## Day 16 (2018-05-15)
+
+終於完成 [PowerShell-uploadfile](https://github.com/giggslam/PowerShell-uploadfile), 原來基於 I.E. security 問題, PowerShell 唔容許直接操控 file upload, 要用 3rd party [WatiN](https://sourceforge.net/projects/watin/) assembly 
