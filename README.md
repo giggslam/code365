@@ -65,7 +65,7 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 
 ## Day 17 (2018-05-16)
 
-開左新 github [Python-common-function](https://github.com/giggslam/Python-common-function) 用黎 keep customized common python functions
+開左新 repo [Python-common-function](https://github.com/giggslam/Python-common-function) 用黎 keep customized common python functions
 
 新增:
 
