@@ -61,5 +61,12 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 
 ## Day 16 (2018-05-15)
 
-終於完成 [PowerShell-uploadfile](https://github.com/giggslam/PowerShell-uploadfile), 原來基於 I.E. security 問題, PowerShell 唔容許直接操控 file upload, 要用 3rd party [WatiN](https://sourceforge.net/projects/watin/) assembly 
+終於完成 [PowerShell-uploadfile](https://github.com/giggslam/PowerShell-uploadfile), 原來基於 I.E. security 問題, PowerShell 唔容許直接操控 file upload, 要用 3rd party [WatiN](https://sourceforge.net/projects/watin/) assembly
 
+## Day 17 (2018-05-16)
+
+開左新 github [Python-common-function](https://github.com/giggslam/Python-common-function) 用黎 keep customized common python functions
+
+新增:
+
+### list of dictionaries search
