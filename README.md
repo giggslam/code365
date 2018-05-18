@@ -73,7 +73,7 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 
 ## Day 18 (2018-05-17)
 
-發現[雷峰網](http://www.mooc.ai/course/494)原來將 Stanford 出名嘅 NLP課程譯左中文字幕, 每星期1集, 每集1個鐘多啲, 決定每星期煲佢1集, 要學既野太多啦, 時間有限, 要善用時間
+發現[雷峰網](http://www.mooc.ai/course/494)原來將 Stanford 出名嘅 NLP課程 ([CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)) 譯左中文字幕, 每星期1集, 每集1個鐘多啲, 決定每星期煲佢1集, 要學既野太多啦, 時間有限, 要善用時間
 
 ## Day 19 (2018-05-18)
 
