@@ -70,3 +70,11 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 新增:
 
 ### list of dictionaries search
+
+## Day 18 (2018-05-17)
+
+發現[雷峰網](http://www.mooc.ai/course/494)原來將 Stanford 出名嘅 NLP課程譯左中文字幕, 每星期1集, 每集1個鐘多啲, 決定每星期煲佢1集, 要學既野太多啦, 時間有限, 要善用時間
+
+## Day 19 (2018-05-18)
+
+本[初探機器學習：使用Python](https://episode.cc/read/cnchi/BookReview-AI/3)今日終於收到, 真係唔錯
