@@ -78,3 +78,7 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 ## Day 19 (2018-05-18)
 
 本[初探機器學習：使用Python](https://episode.cc/read/cnchi/BookReview-AI/3)今日終於收到, 真係唔錯
+
+## Day 20 (2018-05-19)
+
+今日冇咩動力 coding, 淨係睇左陣書, Family day 休息下~
