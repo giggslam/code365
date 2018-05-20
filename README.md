@@ -84,3 +84,9 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 今日冇咩動力 coding, 淨係睇左陣書, Family day 休息下~
 
 ## Day 21 (2018-05-20)
+
+開左新 repo [PHP-common-function](https://github.com/giggslam/PHP-common-function) 用黎 keep customized common PHP functions
+
+新增:
+
+### multidimensional array search by value
