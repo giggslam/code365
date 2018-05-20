@@ -82,3 +82,5 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 ## Day 20 (2018-05-19)
 
 今日冇咩動力 coding, 淨係睇左陣書, Family day 休息下~
+
+## Day 21 (2018-05-20)
