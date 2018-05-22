@@ -90,3 +90,7 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 新增:
 
 ### multidimensional array search by value
+
+## Day 22 (2018-05-21 to 2018-05-22)
+
+真係唔可以懒, 一停就停左兩日, 放完假, 又係時候重拾番啲動力~
