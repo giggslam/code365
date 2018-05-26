@@ -91,6 +91,14 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 
 ### multidimensional array search by value
 
-## Day 22 (2018-05-21 to 2018-05-22)
+## Day 22,23 (2018-05-21 to 2018-05-22)
 
 真係唔可以懒, 一停就停左兩日, 放完假, 又係時候重拾番啲動力~
+
+## Day 24,25,26  (2018-05-23 to 2018-05-25)
+
+原來懶係會習慣既... 一但習慣咗懶唔寫，好自然又放底幾日，係時候要習慣番[每日一code]先～
+
+## Day 27 (2018-05-26)
+
+改緊 廣東話 NLP Engine 2.0, 希望5月底可完成 
