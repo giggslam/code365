@@ -101,4 +101,8 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 
 ## Day 27 (2018-05-26)
 
-改緊 廣東話 NLP Engine 2.0, 希望5月底可完成 
+改緊 廣東話 NLP Engine 2.0, 希望5月底可完成
+
+## Day 28 (2018-05-27)
+
+又一 Day, 進度仍然都係緩慢, 睇黎我既學習大齒輪仲未行得穩, 要加倍努力～
