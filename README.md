@@ -106,3 +106,11 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 ## Day 28 (2018-05-27)
 
 又一 Day, 進度仍然都係緩慢, 睇黎我既學習大齒輪仲未行得穩, 要加倍努力～
+
+## Day 29,30 (2018-05-28 to 2018-05-29)
+
+開始睇緊[初探機器學習：使用Python](https://episode.cc/read/cnchi/BookReview-AI/3)
+
+## Day 31 (2018-05-30)
+
+開左新 repo [regularexpression](https://github.com/giggslam/regularexpression) 用黎 keep Python Regular expression example
