@@ -114,3 +114,7 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 ## Day 31 (2018-05-30)
 
 開左新 repo [regularexpression](https://github.com/giggslam/regularexpression) 用黎 keep Python Regular expression example
+
+## Day 32 (2018-05-31)
+
+NLP enchance
