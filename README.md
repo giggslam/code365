@@ -118,3 +118,11 @@ Setup [Smalltalk](https://gitlab.com/ryanlam/Smalltalk)(Private)
 ## Day 32 (2018-05-31)
 
 NLP enchance
+
+## Day 33-50 (2018-06-01 to 2018-06-18)
+
+一懶就會有慣性, 一停就停左18日, 寄實每天15-30 mins, 原來要維持都唔係咁易 ...
+
+## Day 51 (2018-06-19)
+
+重新開始, 每日一CODE, 今天到 Python [if/else in one line](https://github.com/giggslam/Python-common-function)
